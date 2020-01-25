@@ -1,0 +1,4681 @@
+0 0
+Input: [9, 0]
+Pointer: 0
+Instruction:  0003
+Parameters:  [52]
+Modes: 00
+Values:  [0]
+Saving input 9 to position 52
+Pointer: 2
+Instruction:  1001
+Parameters:  [52, -5, 52]
+Modes: 01
+Values:  [9, -5, 52]
+Saving value 4 to position 52
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [0]
+Saving input 0 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [4, 10, 54]
+Saving value 14 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [14, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [14, -5, 54]
+Saving value 9 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [9, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [9, -5, 54]
+Saving value 4 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [4, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [0, 4, 53]
+Saving value 4 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [4, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [4, 1, 53]
+Saving value 4 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [4]
+4
+1 1
+Input: [8, 4]
+Pointer: 0
+Instruction:  0003
+Parameters:  [52]
+Modes: 00
+Values:  [0]
+Saving input 8 to position 52
+Pointer: 2
+Instruction:  1001
+Parameters:  [52, -5, 52]
+Modes: 01
+Values:  [8, -5, 52]
+Saving value 3 to position 52
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [0]
+Saving input 4 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [3, 10, 54]
+Saving value 13 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [13, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [13, -5, 54]
+Saving value 8 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [8, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [8, -5, 54]
+Saving value 3 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [3, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [4, 3, 53]
+Saving value 7 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [3, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [7, 1, 53]
+Saving value 7 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [7]
+7
+2 2
+Input: [7, 7]
+Pointer: 0
+Instruction:  0003
+Parameters:  [52]
+Modes: 00
+Values:  [0]
+Saving input 7 to position 52
+Pointer: 2
+Instruction:  1001
+Parameters:  [52, -5, 52]
+Modes: 01
+Values:  [7, -5, 52]
+Saving value 2 to position 52
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [0]
+Saving input 7 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [2, 10, 54]
+Saving value 12 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [12, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [12, -5, 54]
+Saving value 7 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [7, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [7, -5, 54]
+Saving value 2 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [2, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [7, 2, 53]
+Saving value 9 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [2, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [9, 1, 53]
+Saving value 9 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [9]
+9
+3 3
+Input: [5, 9]
+Pointer: 0
+Instruction:  0003
+Parameters:  [52]
+Modes: 00
+Values:  [0]
+Saving input 5 to position 52
+Pointer: 2
+Instruction:  1001
+Parameters:  [52, -5, 52]
+Modes: 01
+Values:  [5, -5, 52]
+Saving value 0 to position 52
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [0]
+Saving input 9 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [0, 10, 54]
+Saving value 10 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [10, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [10, -5, 54]
+Saving value 5 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [5, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [5, -5, 54]
+Saving value 0 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [0, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [9, 0, 53]
+Saving value 9 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [0, 0, 55]
+storing 1 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [1, 1, 55]
+Saving value 2 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [9, 2, 53]
+Saving value 18 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [18]
+18
+4 4
+Input: [6, 18]
+Pointer: 0
+Instruction:  0003
+Parameters:  [52]
+Modes: 00
+Values:  [0]
+Saving input 6 to position 52
+Pointer: 2
+Instruction:  1001
+Parameters:  [52, -5, 52]
+Modes: 01
+Values:  [6, -5, 52]
+Saving value 1 to position 52
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [0]
+Saving input 18 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [1, 10, 54]
+Saving value 11 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [11, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [11, -5, 54]
+Saving value 6 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [6, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [6, -5, 54]
+Saving value 1 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [1, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [18, 1, 53]
+Saving value 19 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [1, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [19, 1, 53]
+Saving value 19 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [19]
+19
+0 5
+Input: [19]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [10, -1, 56]
+Saving value 9 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [9, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [4]
+Saving input 19 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [4, 9, 54]
+Saving value 13 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [13, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [13, -5, 54]
+Saving value 8 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [8, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [8, -5, 54]
+Saving value 3 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [3, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [19, 3, 53]
+Saving value 22 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [3, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [22, 1, 53]
+Saving value 22 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [22]
+22
+1 6
+Input: [22]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [10, -1, 56]
+Saving value 9 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [9, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [7]
+Saving input 22 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [3, 9, 54]
+Saving value 12 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [12, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [12, -5, 54]
+Saving value 7 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [7, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [7, -5, 54]
+Saving value 2 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [2, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [22, 2, 53]
+Saving value 24 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [2, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [24, 1, 53]
+Saving value 24 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [24]
+24
+2 7
+Input: [24]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [10, -1, 56]
+Saving value 9 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [9, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [9]
+Saving input 24 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [2, 9, 54]
+Saving value 11 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [11, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [11, -5, 54]
+Saving value 6 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [6, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [6, -5, 54]
+Saving value 1 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [1, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [24, 1, 53]
+Saving value 25 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [1, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [25, 1, 53]
+Saving value 25 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [25]
+25
+3 8
+Input: [25]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [10, -1, 56]
+Saving value 9 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [9, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [18]
+Saving input 25 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [0, 9, 54]
+Saving value 9 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [9, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [9, -5, 54]
+Saving value 4 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [4, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [25, 4, 53]
+Saving value 29 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [4, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [29, 1, 53]
+Saving value 29 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [29]
+29
+4 9
+Input: [29]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [10, -1, 56]
+Saving value 9 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [9, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [19]
+Saving input 29 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [1, 9, 54]
+Saving value 10 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [10, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [10, -5, 54]
+Saving value 5 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [5, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [5, -5, 54]
+Saving value 0 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [0, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [29, 0, 53]
+Saving value 29 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [0, 0, 55]
+storing 1 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [1, 1, 55]
+Saving value 2 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [29, 2, 53]
+Saving value 58 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [58]
+58
+0 10
+Input: [58]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [9, -1, 56]
+Saving value 8 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [8, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [22]
+Saving input 58 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [4, 8, 54]
+Saving value 12 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [12, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [12, -5, 54]
+Saving value 7 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [7, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [7, -5, 54]
+Saving value 2 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [2, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [58, 2, 53]
+Saving value 60 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [2, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [60, 1, 53]
+Saving value 60 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [60]
+60
+1 11
+Input: [60]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [9, -1, 56]
+Saving value 8 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [8, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [24]
+Saving input 60 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [3, 8, 54]
+Saving value 11 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [11, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [11, -5, 54]
+Saving value 6 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [6, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [6, -5, 54]
+Saving value 1 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [1, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [60, 1, 53]
+Saving value 61 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [1, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [61, 1, 53]
+Saving value 61 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [61]
+61
+2 12
+Input: [61]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [9, -1, 56]
+Saving value 8 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [8, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [25]
+Saving input 61 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [2, 8, 54]
+Saving value 10 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [10, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [10, -5, 54]
+Saving value 5 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [5, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [5, -5, 54]
+Saving value 0 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [0, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [61, 0, 53]
+Saving value 61 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [0, 0, 55]
+storing 1 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [1, 1, 55]
+Saving value 2 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [61, 2, 53]
+Saving value 122 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [122]
+122
+3 13
+Input: [122]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [9, -1, 56]
+Saving value 8 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [8, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [29]
+Saving input 122 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [0, 8, 54]
+Saving value 8 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [8, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [8, -5, 54]
+Saving value 3 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [3, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [122, 3, 53]
+Saving value 125 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [3, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [125, 1, 53]
+Saving value 125 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [125]
+125
+4 14
+Input: [125]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [9, -1, 56]
+Saving value 8 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [8, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [58]
+Saving input 125 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [1, 8, 54]
+Saving value 9 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [9, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [9, -5, 54]
+Saving value 4 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [4, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [125, 4, 53]
+Saving value 129 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [4, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [129, 1, 53]
+Saving value 129 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [129]
+129
+0 15
+Input: [129]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [8, -1, 56]
+Saving value 7 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [7, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [60]
+Saving input 129 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [4, 7, 54]
+Saving value 11 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [11, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [11, -5, 54]
+Saving value 6 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [6, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [6, -5, 54]
+Saving value 1 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [1, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [129, 1, 53]
+Saving value 130 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [1, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [130, 1, 53]
+Saving value 130 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [130]
+130
+1 16
+Input: [130]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [8, -1, 56]
+Saving value 7 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [7, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [61]
+Saving input 130 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [3, 7, 54]
+Saving value 10 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [10, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [10, -5, 54]
+Saving value 5 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [5, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [5, -5, 54]
+Saving value 0 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [0, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [130, 0, 53]
+Saving value 130 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [0, 0, 55]
+storing 1 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [1, 1, 55]
+Saving value 2 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [130, 2, 53]
+Saving value 260 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [260]
+260
+2 17
+Input: [260]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [8, -1, 56]
+Saving value 7 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [7, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [122]
+Saving input 260 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [2, 7, 54]
+Saving value 9 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [9, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [9, -5, 54]
+Saving value 4 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [4, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [260, 4, 53]
+Saving value 264 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [4, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [264, 1, 53]
+Saving value 264 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [264]
+264
+3 18
+Input: [264]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [8, -1, 56]
+Saving value 7 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [7, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [125]
+Saving input 264 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [0, 7, 54]
+Saving value 7 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [7, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [7, -5, 54]
+Saving value 2 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [2, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [264, 2, 53]
+Saving value 266 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [2, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [266, 1, 53]
+Saving value 266 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [266]
+266
+4 19
+Input: [266]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [8, -1, 56]
+Saving value 7 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [7, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [129]
+Saving input 266 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [1, 7, 54]
+Saving value 8 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [8, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [8, -5, 54]
+Saving value 3 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [3, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [266, 3, 53]
+Saving value 269 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [3, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [269, 1, 53]
+Saving value 269 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [269]
+269
+0 20
+Input: [269]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [7, -1, 56]
+Saving value 6 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [6, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [130]
+Saving input 269 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [4, 6, 54]
+Saving value 10 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [10, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [10, -5, 54]
+Saving value 5 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [5, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [5, -5, 54]
+Saving value 0 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [0, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [269, 0, 53]
+Saving value 269 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [0, 0, 55]
+storing 1 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [1, 1, 55]
+Saving value 2 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [269, 2, 53]
+Saving value 538 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [538]
+538
+1 21
+Input: [538]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [7, -1, 56]
+Saving value 6 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [6, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [260]
+Saving input 538 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [3, 6, 54]
+Saving value 9 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [9, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [9, -5, 54]
+Saving value 4 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [4, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [538, 4, 53]
+Saving value 542 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [4, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [542, 1, 53]
+Saving value 542 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [542]
+542
+2 22
+Input: [542]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [7, -1, 56]
+Saving value 6 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [6, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [264]
+Saving input 542 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [2, 6, 54]
+Saving value 8 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [8, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [8, -5, 54]
+Saving value 3 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [3, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [542, 3, 53]
+Saving value 545 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [3, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [545, 1, 53]
+Saving value 545 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [545]
+545
+3 23
+Input: [545]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [7, -1, 56]
+Saving value 6 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [6, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [266]
+Saving input 545 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [0, 6, 54]
+Saving value 6 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [6, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [6, -5, 54]
+Saving value 1 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [1, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [545, 1, 53]
+Saving value 546 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [1, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [546, 1, 53]
+Saving value 546 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [546]
+546
+4 24
+Input: [546]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [7, -1, 56]
+Saving value 6 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [6, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [269]
+Saving input 546 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [1, 6, 54]
+Saving value 7 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [7, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [7, -5, 54]
+Saving value 2 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [2, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [546, 2, 53]
+Saving value 548 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [2, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [548, 1, 53]
+Saving value 548 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [548]
+548
+0 25
+Input: [548]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [6, -1, 56]
+Saving value 5 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [5, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [538]
+Saving input 548 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [4, 5, 54]
+Saving value 9 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [9, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [9, -5, 54]
+Saving value 4 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [4, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [548, 4, 53]
+Saving value 552 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [4, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [552, 1, 53]
+Saving value 552 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [552]
+552
+1 26
+Input: [552]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [6, -1, 56]
+Saving value 5 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [5, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [542]
+Saving input 552 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [3, 5, 54]
+Saving value 8 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [8, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [8, -5, 54]
+Saving value 3 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [3, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [552, 3, 53]
+Saving value 555 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [3, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [555, 1, 53]
+Saving value 555 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [555]
+555
+2 27
+Input: [555]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [6, -1, 56]
+Saving value 5 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [5, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [545]
+Saving input 555 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [2, 5, 54]
+Saving value 7 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [7, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [7, -5, 54]
+Saving value 2 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [2, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [555, 2, 53]
+Saving value 557 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [2, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [557, 1, 53]
+Saving value 557 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [557]
+557
+3 28
+Input: [557]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [6, -1, 56]
+Saving value 5 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [5, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [546]
+Saving input 557 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [0, 5, 54]
+Saving value 5 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [5, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [5, -5, 54]
+Saving value 0 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [0, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [557, 0, 53]
+Saving value 557 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [0, 0, 55]
+storing 1 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [1, 1, 55]
+Saving value 2 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [557, 2, 53]
+Saving value 1114 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [1114]
+1114
+4 29
+Input: [1114]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [6, -1, 56]
+Saving value 5 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [5, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [548]
+Saving input 1114 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [1, 5, 54]
+Saving value 6 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [6, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [6, -5, 54]
+Saving value 1 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [1, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [1114, 1, 53]
+Saving value 1115 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [1, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [1115, 1, 53]
+Saving value 1115 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [1115]
+1115
+0 30
+Input: [1115]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [5, -1, 56]
+Saving value 4 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [4, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [552]
+Saving input 1115 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [4, 4, 54]
+Saving value 8 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [8, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [8, -5, 54]
+Saving value 3 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [3, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [1115, 3, 53]
+Saving value 1118 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [3, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [1118, 1, 53]
+Saving value 1118 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [1118]
+1118
+1 31
+Input: [1118]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [5, -1, 56]
+Saving value 4 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [4, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [555]
+Saving input 1118 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [3, 4, 54]
+Saving value 7 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [7, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [7, -5, 54]
+Saving value 2 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [2, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [1118, 2, 53]
+Saving value 1120 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [2, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [1120, 1, 53]
+Saving value 1120 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [1120]
+1120
+2 32
+Input: [1120]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [5, -1, 56]
+Saving value 4 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [4, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [557]
+Saving input 1120 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [2, 4, 54]
+Saving value 6 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [6, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [6, -5, 54]
+Saving value 1 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [1, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [1120, 1, 53]
+Saving value 1121 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [1, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [1121, 1, 53]
+Saving value 1121 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [1121]
+1121
+3 33
+Input: [1121]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [5, -1, 56]
+Saving value 4 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [4, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [1114]
+Saving input 1121 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [0, 4, 54]
+Saving value 4 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [4, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [1121, 4, 53]
+Saving value 1125 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [4, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [1125, 1, 53]
+Saving value 1125 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [1125]
+1125
+4 34
+Input: [1125]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [5, -1, 56]
+Saving value 4 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [4, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [1115]
+Saving input 1125 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [1, 4, 54]
+Saving value 5 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [5, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [5, -5, 54]
+Saving value 0 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [0, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [1125, 0, 53]
+Saving value 1125 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [0, 0, 55]
+storing 1 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [1, 1, 55]
+Saving value 2 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [1125, 2, 53]
+Saving value 2250 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [2250]
+2250
+0 35
+Input: [2250]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [4, -1, 56]
+Saving value 3 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [3, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [1118]
+Saving input 2250 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [4, 3, 54]
+Saving value 7 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [7, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [7, -5, 54]
+Saving value 2 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [2, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [2250, 2, 53]
+Saving value 2252 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [2, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [2252, 1, 53]
+Saving value 2252 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [2252]
+2252
+1 36
+Input: [2252]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [4, -1, 56]
+Saving value 3 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [3, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [1120]
+Saving input 2252 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [3, 3, 54]
+Saving value 6 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [6, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [6, -5, 54]
+Saving value 1 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [1, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [2252, 1, 53]
+Saving value 2253 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [1, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [2253, 1, 53]
+Saving value 2253 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [2253]
+2253
+2 37
+Input: [2253]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [4, -1, 56]
+Saving value 3 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [3, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [1121]
+Saving input 2253 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [2, 3, 54]
+Saving value 5 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [5, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [5, -5, 54]
+Saving value 0 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [0, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [2253, 0, 53]
+Saving value 2253 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [0, 0, 55]
+storing 1 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [1, 1, 55]
+Saving value 2 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [2253, 2, 53]
+Saving value 4506 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [4506]
+4506
+3 38
+Input: [4506]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [4, -1, 56]
+Saving value 3 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [3, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [1125]
+Saving input 4506 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [0, 3, 54]
+Saving value 3 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [3, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [4506, 3, 53]
+Saving value 4509 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [3, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [4509, 1, 53]
+Saving value 4509 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [4509]
+4509
+4 39
+Input: [4509]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [4, -1, 56]
+Saving value 3 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [3, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [2250]
+Saving input 4509 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [1, 3, 54]
+Saving value 4 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [4, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [4509, 4, 53]
+Saving value 4513 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [4, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [4513, 1, 53]
+Saving value 4513 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [4513]
+4513
+0 40
+Input: [4513]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [3, -1, 56]
+Saving value 2 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [2, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [2252]
+Saving input 4513 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [4, 2, 54]
+Saving value 6 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [6, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [6, -5, 54]
+Saving value 1 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [1, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [4513, 1, 53]
+Saving value 4514 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [1, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [4514, 1, 53]
+Saving value 4514 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [4514]
+4514
+1 41
+Input: [4514]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [3, -1, 56]
+Saving value 2 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [2, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [2253]
+Saving input 4514 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [3, 2, 54]
+Saving value 5 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [5, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [5, -5, 54]
+Saving value 0 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [0, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [4514, 0, 53]
+Saving value 4514 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [0, 0, 55]
+storing 1 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [1, 1, 55]
+Saving value 2 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [4514, 2, 53]
+Saving value 9028 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [9028]
+9028
+2 42
+Input: [9028]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [3, -1, 56]
+Saving value 2 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [2, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [4506]
+Saving input 9028 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [2, 2, 54]
+Saving value 4 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [4, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [9028, 4, 53]
+Saving value 9032 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [4, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [9032, 1, 53]
+Saving value 9032 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [9032]
+9032
+3 43
+Input: [9032]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [3, -1, 56]
+Saving value 2 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [2, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [4509]
+Saving input 9032 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [0, 2, 54]
+Saving value 2 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [2, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [9032, 2, 53]
+Saving value 9034 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [2, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [9034, 1, 53]
+Saving value 9034 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [9034]
+9034
+4 44
+Input: [9034]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [3, -1, 56]
+Saving value 2 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [2, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [4513]
+Saving input 9034 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [1, 2, 54]
+Saving value 3 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [3, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [9034, 3, 53]
+Saving value 9037 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [3, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [9037, 1, 53]
+Saving value 9037 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [9037]
+9037
+0 45
+Input: [9037]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [2, -1, 56]
+Saving value 1 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [1, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [4514]
+Saving input 9037 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [4, 1, 54]
+Saving value 5 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [5, 5, 55]
+Storing 0 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [0, 26]
+Pointer: 19
+Instruction:  1001
+Parameters:  [54, -5, 54]
+Modes: 01
+Values:  [5, -5, 54]
+Saving value 0 to position 54
+Pointer: 23
+Instruction:  1105
+Parameters:  [1, 12]
+Modes: 11
+Values:  [1, 12]
+Junping to position: 12
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [0, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [9037, 0, 53]
+Saving value 9037 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [0, 0, 55]
+storing 1 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [1, 1, 55]
+Saving value 2 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [9037, 2, 53]
+Saving value 18074 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [18074]
+18074
+1 46
+Input: [18074]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [2, -1, 56]
+Saving value 1 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [1, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [9028]
+Saving input 18074 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [3, 1, 54]
+Saving value 4 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [4, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [18074, 4, 53]
+Saving value 18078 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [4, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [18078, 1, 53]
+Saving value 18078 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [18078]
+18078
+2 47
+Input: [18078]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [2, -1, 56]
+Saving value 1 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [1, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [9032]
+Saving input 18078 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [2, 1, 54]
+Saving value 3 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [3, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [18078, 3, 53]
+Saving value 18081 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [3, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [18081, 1, 53]
+Saving value 18081 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [18081]
+18081
+3 48
+Input: [18081]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [2, -1, 56]
+Saving value 1 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [1, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [9034]
+Saving input 18081 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [0, 1, 54]
+Saving value 1 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [1, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [18081, 1, 53]
+Saving value 18082 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [1, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [18082, 1, 53]
+Saving value 18082 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [18082]
+18082
+4 49
+Input: [18082]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [2, -1, 56]
+Saving value 1 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [1, 6]
+Junping to position: 6
+Pointer: 6
+Instruction:  0003
+Parameters:  [53]
+Modes: 00
+Values:  [9037]
+Saving input 18082 to position 53
+Pointer: 8
+Instruction:  0001
+Parameters:  [52, 56, 54]
+Modes: 00
+Values:  [1, 1, 54]
+Saving value 2 to position 54
+Pointer: 12
+Instruction:  1007
+Parameters:  [54, 5, 55]
+Modes: 01
+Values:  [2, 5, 55]
+Storing 1 at pos 55
+Pointer: 16
+Instruction:  1005
+Parameters:  [55, 26]
+Modes: 01
+Values:  [1, 26]
+Junping to position: 26
+Pointer: 26
+Instruction:  0001
+Parameters:  [53, 54, 53]
+Modes: 00
+Values:  [18082, 2, 53]
+Saving value 18084 to position 53
+Pointer: 30
+Instruction:  1008
+Parameters:  [54, 0, 55]
+Modes: 01
+Values:  [2, 0, 55]
+storing 0 at pos 55
+Pointer: 34
+Instruction:  1001
+Parameters:  [55, 1, 55]
+Modes: 01
+Values:  [0, 1, 55]
+Saving value 1 to position 55
+Pointer: 38
+Instruction:  0002
+Parameters:  [53, 55, 53]
+Modes: 00
+Values:  [18084, 1, 53]
+Saving value 18084 to position 53
+Pointer: 42
+Instruction:  0004
+Parameters:  [53]
+Modes: 00
+Values:  [18084]
+18084
+0 50
+Input: [18084]
+Pointer: 44
+Instruction:  1001
+Parameters:  [56, -1, 56]
+Modes: 01
+Values:  [1, -1, 56]
+Saving value 0 to position 56
+Pointer: 48
+Instruction:  1005
+Parameters:  [56, 6]
+Modes: 01
+Values:  [0, 6]
+Pointer: 51
+Instruction:  0099
+18084 [9, 8, 7, 5, 6]
