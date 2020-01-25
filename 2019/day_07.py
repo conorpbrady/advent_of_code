@@ -1,4 +1,4 @@
-from day_05 import OpCodeComputer
+from opcodecomputer import OpCodeComputer
 from itertools import permutations
 from collections import deque
 
