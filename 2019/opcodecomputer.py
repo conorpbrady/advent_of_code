@@ -11,12 +11,17 @@ class OpCodeComputer:
         6: 3,
         7: 4,
         8: 4,
+        9: 2,
         99: 0
     }
     def __init__(self, instruction_list, debug_level=0, pause_on_output=False):
         self.instruction_list = instruction_list
+        for i in range(0,1000):
+            self.instruction_list.append(0)
+
         self.pause_on_output = pause_on_output
         self.position = 0
+        self.relative_base = 0
         self.debug_level = debug_level
         self.output = deque()
 
@@ -57,9 +62,10 @@ class OpCodeComputer:
             self.multiply(params)
         if opcode == 3:
             inpt = self.input.popleft()
+
             if self.debug_level > 2:
-                print("Saving input", inpt, "to position", self.instruction_list[self.position + 1])
-            self.instruction_list[self.instruction_list[self.position + 1]] = inpt
+                print("Saving input", inpt, "to position", params[0])
+            self.instruction_list[params[0]] = inpt
         if opcode == 4:
             self.output.append(params[0])
 
@@ -74,6 +80,9 @@ class OpCodeComputer:
             self.less_than(params)
         if opcode == 8:
             self.equals(params)
+        if opcode == 9:
+            self.relative_base += params[0]
+            print('relative base set to', self.relative_base)
 
         return self.pointer_length[opcode]
 
@@ -81,10 +90,10 @@ class OpCodeComputer:
         length = self.pointer_length[opcode]
         start = self.position + 1
         params = self.instruction_list[start:start+length-1]
-        values = self.get_values_by_mode(params, instruction_str[0:2])
+        values = self.get_values_by_mode(params, instruction_str[0:3], opcode)
         return values
 
-    def get_values_by_mode(self, parameters, modes):
+    def get_values_by_mode(self, parameters, modes, opcode):
         values = []
         modes = modes[::-1]
         if self.debug_level > 2:
@@ -92,13 +101,25 @@ class OpCodeComputer:
             print("Modes:", modes)
 
         for i in range(0,len(parameters)):
-            if(i >= len(modes)):
+
+            print("checking mode", modes[i], "at position", i)
+            print(opcode)
+            position_only_opcode = opcode == 1 or opcode == 2 or opcode == 7 or opcode ==8
+            if modes[i] == '0': # Position Mode
+                if position_only_opcode and i == 2:
+                    values.append(parameters[i])
+                else:
+                    values.append(self.instruction_list[parameters[i]])
+            elif modes[i] == '1': #Immediate Mode
                 values.append(parameters[i])
             else:
-                if modes[i] == '0': # Position Mode
-                    values.append(self.instruction_list[parameters[i]])
-                else: #Immediate Mode
-                    values.append(parameters[i])
+                relative_position = self.relative_base + parameters[i]
+                print("getting relative position", relative_position)
+                if opcode == 3 or (position_only_opcode and i==2):
+                    values.append(relative_position)
+                    print("WERE DOING IT",opcode,i)
+                else:
+                    values.append(self.instruction_list[relative_position])
 
 
         return values
@@ -107,7 +128,7 @@ class OpCodeComputer:
 
     def pad_instruction(self, num):
         num_str = str(num)
-        while len(num_str) != 4:
+        while len(num_str) != 5:
             num_str  = '0' + num_str
         return num_str
 
