@@ -14,12 +14,12 @@ class OpCodeComputer:
         9: 2,
         99: 0
     }
-    def __init__(self, instruction_list, debug_level=0, pause_on_output=False):
+    def __init__(self, instruction_list, debug_level=0, pause_on_output_length=0):
         self.instruction_list = instruction_list
         for i in range(0,1000):
             self.instruction_list.append(0)
 
-        self.pause_on_output = pause_on_output
+        self.pause_on_output_length = pause_on_output_length
         self.position = 0
         self.relative_base = 0
         self.debug_level = debug_level
@@ -69,7 +69,7 @@ class OpCodeComputer:
         if opcode == 4:
             self.output.append(params[0])
 
-            if self.pause_on_output:
+            if len(self.output) == self.pause_on_output_length:
                 #print("Pausing on", self.position)
                 return -2
         if opcode == 5:
@@ -82,7 +82,7 @@ class OpCodeComputer:
             self.equals(params)
         if opcode == 9:
             self.relative_base += params[0]
-            print('relative base set to', self.relative_base)
+            #print('relative base set to', self.relative_base)
 
         return self.pointer_length[opcode]
 
@@ -102,11 +102,11 @@ class OpCodeComputer:
 
         for i in range(0,len(parameters)):
 
-            print("checking mode", modes[i], "at position", i)
-            print(opcode)
+            #print("checking mode", modes[i], "at position", i)
+            #print(opcode)
             position_only_opcode = opcode == 1 or opcode == 2 or opcode == 7 or opcode ==8
             if modes[i] == '0': # Position Mode
-                if position_only_opcode and i == 2:
+                if (position_only_opcode and i == 2) or opcode == 3:
                     values.append(parameters[i])
                 else:
                     values.append(self.instruction_list[parameters[i]])
@@ -114,10 +114,10 @@ class OpCodeComputer:
                 values.append(parameters[i])
             else:
                 relative_position = self.relative_base + parameters[i]
-                print("getting relative position", relative_position)
+                #print("getting relative position", relative_position)
                 if opcode == 3 or (position_only_opcode and i==2):
                     values.append(relative_position)
-                    print("WERE DOING IT",opcode,i)
+                    #print("WERE DOING IT",opcode,i)
                 else:
                     values.append(self.instruction_list[relative_position])
 
