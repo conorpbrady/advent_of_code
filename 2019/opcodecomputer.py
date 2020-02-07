@@ -39,6 +39,8 @@ class OpCodeComputer:
             if delta == -2:
                 self.position += 2
                 return True
+            if delta == -3:
+                return True
             self.position += delta
         return self.output
 
@@ -61,7 +63,10 @@ class OpCodeComputer:
         if opcode == 2:
             self.multiply(params)
         if opcode == 3:
-            inpt = self.input.popleft()
+            if len(self.input) == 0:
+                return -3
+            else:
+                inpt = self.input.popleft()
 
             if self.debug_level > 2:
                 print("Saving input", inpt, "to position", params[0])
